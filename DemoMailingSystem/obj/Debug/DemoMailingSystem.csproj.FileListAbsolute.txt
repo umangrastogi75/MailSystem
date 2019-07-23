@@ -1,0 +1,76 @@
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\csc.exe
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\vbc.exe
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.dll.config
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.pdb
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.csprojResolveAssemblyReference.cache
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.pdb
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\AjaxControlToolkit.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\AjaxControlToolkit.pdb
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\SNINGER\Downloads\deep\DemoMailingSystem\DemoMailingSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.csprojResolveAssemblyReference.cache
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\csc.exe
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\vbc.exe
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\VBCSCompiler.exe
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.dll.config
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.pdb
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.dll
+D:\deepankar\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.pdb
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\csc.exe
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\vbc.exe
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\VBCSCompiler.exe
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.dll.config
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\bin\DemoMailingSystem.pdb
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.csprojAssemblyReference.cache
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.csproj.CoreCompileInputs.cache
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.csproj.CopyComplete
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.dll
+E:\DATA\New folder (2)\Mailing project\code\DemoMailingSystem\DemoMailingSystem\obj\Debug\DemoMailingSystem.pdb
